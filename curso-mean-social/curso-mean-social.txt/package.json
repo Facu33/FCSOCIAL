@@ -1,0 +1,11 @@
+{
+  "name": "curso-mean-social",
+  "version": "1.0.0",
+  "description": "Backend del proyecto de una red social con MEAN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Facundo Conil",
+  "license": "MIT"
+}
